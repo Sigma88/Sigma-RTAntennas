@@ -1,1 +1,31 @@
-{"NAME":"Sigma: Antennas","URL":"http://ksp-avc.cybutek.net/version.php?id=131","DOWNLOAD":"http://forum.kerbalspaceprogram.com/threads/136732","CHANGE_LOG_URL":"https://github.com/Sigma88/Sigma-Antennas/raw/master/Changelog.txt","VERSION":{"MAJOR":1,"MINOR":1,"PATCH":0,"BUILD":0},"KSP_VERSION":{"MAJOR":1,"MINOR":1,"PATCH":2}}
+{
+    "NAME": "Sigma: Antennas",
+    "URL": "http://ksp-avc.cybutek.net/version.php?id=131",
+    "DOWNLOAD": "http://forum.kerbalspaceprogram.com/threads/136732",
+    "CHANGE_LOG_URL": "https://github.com/Sigma88/Sigma-Antennas/raw/master/Changelog.txt",
+    "VERSION":
+    {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 0,
+        "BUILD": 0
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 0
+    }
+    KSP_VERSION_MIN:
+    {
+        "MAJOR": 1,
+        "MINOR": 1,
+        "PATCH": 2
+    }
+    KSP_VERSION_MAX:
+    {
+        "MAJOR": 1,
+        "MINOR": 2,
+        "PATCH": 0
+    }
+}
