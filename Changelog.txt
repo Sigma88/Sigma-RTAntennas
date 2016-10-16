@@ -1,3 +1,7 @@
+**v1.2.0**
+
+- Better balancing of the RemoteTech energy cost
+
 **v1.1.0**
 
 - Added Sigma Dimensions compatibility
